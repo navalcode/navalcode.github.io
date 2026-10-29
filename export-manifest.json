@@ -13,11 +13,11 @@
   },
   {
     "path": "DESIGN.md",
-    "sha256": "e176fb5129ea2f723d22be03ed91479d91247bb2e398b8f37e82df77b1fe8642"
+    "sha256": "fbc95f31ea834744a1763b8af55e84243aa621da07403ac858fec8c208b463cb"
   },
   {
     "path": "THIRD_PARTY.md",
-    "sha256": "550e27de88d58faba9a15f6fe76d0af1e1fce77e13c9188bb90ae60af58ab77a"
+    "sha256": "d38634d94a0a0a86c50593f87e94f4f7791e645ccd53c65693f57afc4d00227f"
   },
   {
     "path": "portfolio/index.html",
