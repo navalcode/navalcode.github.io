@@ -1,0 +1,16 @@
+@font-face { font-family: Outfit; src: url("assets/Outfit.woff2") format("woff2"); font-style: normal; font-weight: 100 900; font-display: swap; }
+:root { color-scheme: light; font-family: Outfit, sans-serif; color: #202421; background: #FAF8F3; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+main { width: min(100% - 48px, 720px); margin: clamp(40px, 10vh, 96px) auto; }
+.identity { margin: 0 0 48px; font-size: 18px; font-weight: 500; }
+h1 { margin: 0 0 24px; font-size: clamp(36px, 5vw, 60px); font-weight: 600; line-height: 1.08; letter-spacing: -0.025em; text-wrap: balance; }
+.description { max-width: 600px; margin: 0 0 32px; font-size: 20px; line-height: 1.5; color: #5E625C; }
+nav { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; }
+a { display: inline-flex; align-items: center; min-height: 48px; color: #9B432F; font-weight: 500; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+a:hover { text-decoration-thickness: 2px; }
+a:focus-visible { outline: 3px solid #202421; outline-offset: 4px; }
+.primary { padding: 12px 20px; border-radius: 12px; background: #9B432F; color: #FFFFFF; font-size: 18px; text-decoration: none; }
+.primary:hover { text-decoration: underline; }
+.language { margin: 32px 0 0; }
+@media (max-width: 420px) { main { margin-block: 32px; } .identity { margin-bottom: 36px; } .description { font-size: 18px; } }

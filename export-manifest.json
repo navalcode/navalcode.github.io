@@ -1,0 +1,42 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "7a3bd2cba4dc2150aadd46083a44160c4e7d30ea26ade820480119b4b0e60532"
+  },
+  {
+    "path": "README.md",
+    "sha256": "7a6b40a98354bbd428d082faf6e9d7db14ebd7cc5ea1bf6c0d0737981a3018bb"
+  },
+  {
+    "path": "README.es.md",
+    "sha256": "a0ef70aff3acb5760d2b52249110e52cb59e9117f00e070d64b5a1a7826b6404"
+  },
+  {
+    "path": "DESIGN.md",
+    "sha256": "e176fb5129ea2f723d22be03ed91479d91247bb2e398b8f37e82df77b1fe8642"
+  },
+  {
+    "path": "THIRD_PARTY.md",
+    "sha256": "550e27de88d58faba9a15f6fe76d0af1e1fce77e13c9188bb90ae60af58ab77a"
+  },
+  {
+    "path": "portfolio/index.html",
+    "sha256": "0b8b543ab448b64478da5f35f2668766032ef28a20eccb5419596b9762fb62c4"
+  },
+  {
+    "path": "portfolio/es.html",
+    "sha256": "887f3ebb6d4ddbbd1d63c77b7e10d45c13e4de5994b90cdb740355fe893d172a"
+  },
+  {
+    "path": "portfolio/redirect.css",
+    "sha256": "8cdbf0aa2b7f650af2a8d3dd65f4810e6bc6b66d9ce1fe2b8a912b965897dc7b"
+  },
+  {
+    "path": "portfolio/assets/Outfit.woff2",
+    "sha256": "ed629d88c2db8ace1b3ac85fbf1fe0223d7272defaa817d1955100101966f0fb"
+  },
+  {
+    "path": "portfolio/assets/Outfit-OFL.txt",
+    "sha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416"
+  }
+]
